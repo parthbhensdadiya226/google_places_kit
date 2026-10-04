@@ -1,0 +1,24 @@
+name: google_places_kit
+description: >-
+  Google Places API (New) and Geocoding for Flutter: autocomplete, place
+  details, nearby and text search, photos, address to lat/lng and back.
+version: 0.1.0
+repository: https://github.com/parthbhensdadiya226/google_places_kit
+issue_tracker: https://github.com/parthbhensdadiya226/google_places_kit/issues
+funding:
+  - https://buymeacoffee.com/parthbhensdadiya
+topics: [google-places, geocoding, autocomplete, maps, location]
+
+environment:
+  sdk: ^3.8.0
+  flutter: '>=3.32.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
